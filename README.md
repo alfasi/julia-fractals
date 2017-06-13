@@ -9,7 +9,7 @@ python >= 2.7
 ## Execution
 
 `
-python2 julia.py
+$ python2 julia.py
 `
 
 ## Example output
